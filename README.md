@@ -1,16 +1,20 @@
-## Hi there 👋
+# Who am I? 🤨
 
-<!--
-**pure-sagacity/pure-sagacity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Maaz, a amateur full-stack developer based in the freedom country of USA. I'm more into backend development but I also enjoy working on frontend projects.
 
-Here are some ideas to get you started:
+## Skills 🛠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** TypeScript, React, Tailwind CSS
+- **Backend:** Node.js, Express.js, PostgreSQL, Redis
+- **DevOps:** Docker, GitHub Actions
+- **Cloud:** Azure VMs and App Services
+
+## What do I know?
+
+I'm intrigued by networking, homelabbing, and servers, and I'd happily work a 9-5 next to servers.
+
+## Contact Me 📫
+
+- Email: [khokharmaaz@gmail.com](mailto:)
+- Github: You're looking at it.
+- Online Portfolio: [maariz.org](https://maariz.org)
